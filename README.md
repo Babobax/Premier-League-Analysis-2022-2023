@@ -8,4 +8,7 @@ Project was completed in Python and it's packages (pandas, numpy, beautifulsoup4
 
 Data source: https://fbref.com/en/comps/9/stats/Premier-League-Stats
 
+**Update 19/05/23**:
+- Collected updated dataset and freshened the report based on the new data.
+
 Enjoy!
